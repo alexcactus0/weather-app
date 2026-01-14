@@ -4,7 +4,7 @@ const { type } = require('os');
 
 module.exports = {
   entry: {
-    app: './src/logic.js',
+    app: './src/js/logic.js',
   },
   plugins: [
     new HtmlWebpackPlugin({
