@@ -12,7 +12,7 @@ The goal of this project was to practice working with APIs, asynchronous JavaScr
 - Toggle temperature between Celsius and Fahrenheit
 - Dynamic UI changes based on weather conditions
 
-## Technologies Used
+## Technologies
 - JavaScript (ES6+)
 - Webpack
 - HTML
